@@ -1,0 +1,63 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Información de tiendas">
+
+        <menu>
+            <item
+                android:id="@+id/navOnlineShop"
+                android:title="Tienda online"
+                android:icon="@drawable/ic_home"
+                />
+            <item
+                android:id="@+id/navExperienceCenters"
+                android:title="Localizar centros de experiencia"
+                android:icon="@drawable/ic_map"
+                />
+
+            <item
+                android:id="@+id/navScheduleExperienceCenter"
+                android:title="Agendar cita en Centro de Experiencia"
+                android:icon="@drawable/ic_center"
+                />
+        </menu>
+    </item>
+
+    <item android:title="Opciones de la aplicación">
+
+        <menu>
+            <item
+                android:id="@+id/navNotificationManagement"
+                android:title="Gestión de Notificaciones"
+                android:icon="@drawable/ic_notification"
+                />
+            <item
+                android:id="@+id/navShareApp"
+                android:title="Compartir la app"
+                android:icon="@drawable/ic_share"
+                />
+
+            <item
+                android:id="@+id/navHelp"
+                android:title="Ayuda"
+                android:icon="@drawable/ic_help"
+                />
+            <item
+                android:id="@+id/navCleanCache"
+                android:title="Eliminar Caché"
+                android:icon="@drawable/ic_cache"
+
+                />
+        </menu>
+    </item>
+    <item android:title="Cuenta">
+        <menu>
+            <item
+                android:id="@+id/natTermsAndConditions"
+                android:title="Terminos y Condiciones"
+                android:icon="@drawable/ic_terms"
+                />
+        </menu>
+    </item>
+
+
+</menu>
