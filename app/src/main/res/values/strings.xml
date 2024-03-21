@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">class5_homework</string>
+    <string name="informaci_n_de_tiendas">Información de tiendas</string>
+    <string name="tienda_online">Tienda online</string>
+    <string name="localizar_centros_de_experiencia">Localizar centros de experiencia</string>
+    <string name="agendar_cita_en_centro_de_experiencia">Agendar cita en Centro de Experiencia</string>
+    <string name="opciones_de_la_aplicaci_n">Opciones de la aplicación</string>
+    <string name="gesti_n_de_notificaciones">Gestión de Notificaciones</string>
+    <string name="compartir_la_app">Compartir la app</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="eliminar_cach">Eliminar Caché</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="terminos_y_condiciones">Terminos y Condiciones</string>
 </resources>

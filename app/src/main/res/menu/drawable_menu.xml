@@ -1,59 +1,59 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Información de tiendas">
+    <item android:title="@string/informaci_n_de_tiendas">
 
         <menu>
             <item
                 android:id="@+id/navOnlineShop"
-                android:title="Tienda online"
+                android:title="@string/tienda_online"
                 android:icon="@drawable/ic_home"
                 />
             <item
                 android:id="@+id/navExperienceCenters"
-                android:title="Localizar centros de experiencia"
+                android:title="@string/localizar_centros_de_experiencia"
                 android:icon="@drawable/ic_map"
                 />
 
             <item
                 android:id="@+id/navScheduleExperienceCenter"
-                android:title="Agendar cita en Centro de Experiencia"
+                android:title="@string/agendar_cita_en_centro_de_experiencia"
                 android:icon="@drawable/ic_center"
                 />
         </menu>
     </item>
 
-    <item android:title="Opciones de la aplicación">
+    <item android:title="@string/opciones_de_la_aplicaci_n">
 
         <menu>
             <item
                 android:id="@+id/navNotificationManagement"
-                android:title="Gestión de Notificaciones"
+                android:title="@string/gesti_n_de_notificaciones"
                 android:icon="@drawable/ic_notification"
                 />
             <item
                 android:id="@+id/navShareApp"
-                android:title="Compartir la app"
+                android:title="@string/compartir_la_app"
                 android:icon="@drawable/ic_share"
                 />
 
             <item
                 android:id="@+id/navHelp"
-                android:title="Ayuda"
+                android:title="@string/ayuda"
                 android:icon="@drawable/ic_help"
                 />
             <item
                 android:id="@+id/navCleanCache"
-                android:title="Eliminar Caché"
+                android:title="@string/eliminar_cach"
                 android:icon="@drawable/ic_cache"
 
                 />
         </menu>
     </item>
-    <item android:title="Cuenta">
+    <item android:title="@string/cuenta">
         <menu>
             <item
                 android:id="@+id/natTermsAndConditions"
-                android:title="Terminos y Condiciones"
+                android:title="@string/terminos_y_condiciones"
                 android:icon="@drawable/ic_terms"
                 />
         </menu>
